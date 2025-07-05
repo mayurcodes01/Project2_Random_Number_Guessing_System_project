@@ -9,6 +9,11 @@ This is a simple Python command-line game where the user has to guess a randomly
 - Provides hints if the guessed number is too high or too low
 - Congratulates the user on the correct guess
 
+## Technologies Used
+- **Python 3**: Core programming language
+- **Built-in `random` module**: To generate random numbers
+- **Command-line Interface**: Simple terminal-based interaction
+
 ## How to Run
 1. Make sure Python is installed on your system (version 3.x recommended).
 2. Clone or download the project files.
@@ -38,4 +43,3 @@ python guessing_game.py
 
 ## License
 This project is open source and free to use.
-
